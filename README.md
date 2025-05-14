@@ -1,7 +1,7 @@
 # Introduction
 Welcome to my SQL Portfolio Project, where I dive into the data job market with a focus on data analyst roles. This project is a personal exploration into identifying the top-paying jobs, in-demand skills, and the intersection of high demand with high salary in the field of data analytics.
 
-Check out my SQL queries here: [project_sql folder](/project_sql/)
+Check out my SQL queries here: [project_sql](/project_sql/)
 # Background 
 The motivation behind this project stemmed from my desire to understand the data analyst job market better. I aimed to discover which skills are paid the most and in demand, making my job search more targeted and effective. 
 
